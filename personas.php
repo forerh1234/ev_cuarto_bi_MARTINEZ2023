@@ -13,6 +13,7 @@ echo"<html>
 
        </head>
        <body>
+       <h1> Foreth Martinez Saldaña  </h1>
 
 
        <a  href='../../listado_tablas.php'>Listado de tablas</a>
